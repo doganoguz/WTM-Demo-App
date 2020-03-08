@@ -1,7 +1,10 @@
+/* DOGAN OGUZ - GDG Cloud Izmir - GDG Izmir 2020*/
+
 package com.doganoguz.wtmdenizli;
 
 import android.os.Bundle;
 
+import com.doganoguz.wtmdenizli.R;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 
